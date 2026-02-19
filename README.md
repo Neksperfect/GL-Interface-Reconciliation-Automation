@@ -1,6 +1,6 @@
 # GL-Interface-Reconciliation-Automation
 
-## Project Overview
+## Executive Summary
 
 This case study focused on designing an automated General Ledger (GL) interface between SICS and SunSystems.
 The existing process involved manual quarterly exports and imports with limited reconciliation transparency. The objective was to design a scalable, automated, and auditable integration framework.
